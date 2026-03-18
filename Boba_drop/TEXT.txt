@@ -1,0 +1,126 @@
+An anvil is a gravity-affected utility block used to rename items, combine enchantments and repair items without losing the enchantments. An anvil has limited durability, and as it is used or dropped too far, gradually becomes a chipped anvil, then a damaged anvil, then breaks and vanishes.
+
+Bedrock is an indestructible block found in all three dimensions.
+
+Wool is a block obtained from sheep that can be dyed in any of the sixteen different colors. It can be used as a crafting material and to block vibrations.
+
+Blackstone is a dark-colored block that functions similar to cobblestone or cobbled deepslate. It can be found only in the Nether.
+
+A block of coal, also known as a coal block, is a storage block, equivalent to nine coal, that can also be used as fuel.
+
+A block of copper, internally known as a copper block, is a block that oxidizes over time, gaining a verdigris appearance over four stages. They can be prevented from oxidizing by being waxed with honeycombs. Non-oxidized blocks of copper are storage blocks equivalent to nine copper ingots.
+
+A block of iron, known internally as an iron block, is a precious metal block equivalent to nine iron ingots.
+
+A block of redstone, internally known as a redstone block, is a mineral block equivalent to nine redstone dust. It acts as an always active redstone power source that can be moved by pistons.
+
+A furnace is a block with two functions: it can be used for either smelting or cooking, by placing fuel and an appropriate item inside together.
+
+A block of netherite, internally known as a netherite block, is a precious metal block made from nine netherite ingots. Unlike most items, it is resistant to fire and lava, but can still be destroyed by cacti.
+
+A block of lapis lazuli, internally known as a lapis block, is a mineral block equivalent to nine pieces of lapis lazuli.
+
+Cobblestone is a common block obtained from mining stone. It is mainly used for crafting or as a building block.
+
+A crafting table is a utility block that gives access to all crafting recipes, including many not available from the inventory's crafting grid.
+
+A chest is a block used to store items.
+
+A large chest is the combination of two adjacent chests, and can store twice as many items.
+
+Bone blocks are storage blocks equivalent to 9 pieces of bone meal.
+
+Bricks are a decorative building block.
+
+A block of gold, internally known as a gold block, is a precious metal block equivalent to nine gold ingots.
+
+A block of emerald, internally known as an emerald block, is a mineral block equivalent to nine emeralds.
+
+Hay bales are storage blocks equivalent to nine pieces of wheat. They are used as a crafting ingredient, to feed llamas and all horse variants, reduce fall damage, and extend campfire smoke.
+
+The ladder is a block used for climbing walls either vertically or horizontally. They can be placed only on the sides of other blocks.
+
+Ice is a transparent block formed from frozen water, which it can melt into if broken or exposed to bright light. Its top face is slippery for most entities and causes ridden boats to move at high speeds.
+
+Redstone dust is a mineral used in crafting, brewing, trimming, and as a placeable wire.
+
+A redstone torch is a non-solid block that produces a full-strength redstone signal on all sides adjacent to it, except for its attached block, and can power the block directly above it. It deactivates while the block it is attached to is powered.
+
+Sand is a gravity-affected block found abundantly in deserts and beaches, and less commonly in or near surface water.
+
+A melon is a fruit block that grows from a fully-grown melon stem, which in turn is grown from melon seeds.
+
+A sticky piston is a variant of the piston that can additionally pull most blocks when it retracts.
+
+Glass is a transparent solid block that can be dyed into stained glass, or crafted into tinted glass.
+
+A block of diamond, known internally as a diamond block, is a precious mineral block equivalent to nine diamonds.
+
+A grass block is a natural block that generates abundantly across the surface of the Overworld.
+
+TNT is an explosive block that can be lit by a redstone signal, flint and steel, stray fire, flaming projectile or explosion.
+
+When lit, TNT becomes primed TNT, a gravity-affected entity that produces a damaging, block-destroying explosion, usually after four seconds. Blocks destroyed by TNT always drop their usual items as if mined by a player.
+
+Stone is a block found underground in the Overworld or on the surface of mountains.
+
+Lava is a light-emitting fluid that causes fire damage, mostly found in the lower reaches of the Overworld and the Nether.
+
+A barrel is a solid block used to store items. Unlike a chest, it cannot connect to other barrels. It also serves as a fisherman's job site block.
+
+A bed is a dyeable utility block that allows a player in the Overworld to sleep through the night and reset their spawn point to within a few blocks of the bed, as long as it is not broken or obstructed.
+
+An armor stand is an inanimate mob-like entity that can wear armor. In Bedrock Edition, armor stands can also hold items and be posed without the use of commands.
+
+Beetroot seeds are items that can be used to plant beetroot crops.
+
+Beetroot crops are planted in farmland and used to grow beetroot and beetroot seeds.
+
+A wind charge is a throwable item that bursts into wind on impact, which can knock entities into the air and interact with doors, buttons, levers, and similar blocks. They are obtained from breezes, which also use a more powerful version as their main attack.
+
+A trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water. It can rarely be obtained either from trident-wielding drowned or from trial chambers.
+
+An item frame is an entity‌[JE only] or block‌[BE only] that displays the item or block that is inside it.
+
+Leads are utility items used to leash and lead certain entities. Leashed entities can be tied to fences or other entities by using the fence or entity while sneaking. A lead can be removed from an entity by shearing it.
+
+A minecart is a ridable vehicle entity that runs on rails and can be used to transport both players and mobs.
+
+Paintings are decorative entities that hang on walls. They have many different variants with different sizes when placed, which are chosen based on both the available space and random chance.
+
+A potato is a food item obtained from potato crops that can be used to plant them, consumed raw or cooked to make baked potatoes.
+
+Potato crops are planted in farmland and used to grow potatoes and, rarely, poisonous potatoes.
+
+A snowball is an item obtained by breaking snow blocks or snow layers using a shovel. It can be crafted into snow blocks, thrown to knock mobs back, fed to ghastlings and used to attract happy ghasts.
+
+String is an item that can be used as a crafting material or placed as tripwire to allow tripwire hooks and observers to detect entities that touch it.
+
+Flint and steel is a tool used to create fire or to ignite certain blocks, structures and mobs.
+
+A fishing rod is a tool that casts a bobber used to fish in water or to hook and pull mobs, items‌[JE only], and some other entities towards the player.
+
+A firework rocket is an item that provides a speed boost when used while flying with elytra. It can also be launched as a projectile either by hand or from a crossbow or dispenser.
+
+It can also be crafted using extra gunpowder to fly farther or with up to seven firework stars to add customizable damage-dealing explosions.
+
+An ender chest is a type of chest whose contents are exclusive to each player, and they can be placed and accessed from anywhere in any dimension.
+
+A bottle o' enchanting is an item that can be thrown to break it and release experience orbs.
+
+A bow is a ranged weapon that can fire arrows and tipped arrows. The damage and range of fired arrows depends on the arrow type, enchantments on the bow, and how long the use button was held before releasing.
+
+A bucket is a utility item used to carry water, lava, milk, powder snow, and various aquatic mobs.
+
+A carrot is a food item obtained from carrot crops that can be used to plant them, eaten or used as a crafting ingredient.
+
+Carrot crops are planted in farmland and used to grow carrots.
+
+A crossbow is a ranged weapon that can load and fire arrows, arrow variants and firework rockets. Holding use will load it and it will remain loaded until it is fired, after which it can be loaded again.
+
+An ender pearl is an item that can be thrown to teleport to where it lands, or used to craft eyes of ender, which are required to access the End.
+
+An eye of ender is a craftable item that can be thrown in the Overworld to show the direction of the nearest stronghold, which may break the eye. Up to 12 eyes of ender are required to activate a stronghold's End portal, which leads to the End dimension.
+
+A fire charge is an item that can be used as a single-use version of a flint and steel or shot as a small fireball from a dispenser.
+
